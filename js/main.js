@@ -40,13 +40,12 @@ var insects = [
     family: 'Cassidinae',
     size: [1, 18],
     food: {
-    eatsInsects: false,
-    eatsDung: false,
-    eatsPlants: true
+      eatsInsects: false,
+      eatsDung: false,
+      eatsPlants: true
     }
   }
 ];
-
 
 // ##########################################################
 // START DO NOT CHANGE ZONE
