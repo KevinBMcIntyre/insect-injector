@@ -12,6 +12,7 @@ var insects = [
     eatsPlants: false
     }
   },
+  {
     name: 'Dung Beetle',
     img: 'dung-beetle.jpg',
     family: 'Scarabidae',
@@ -22,6 +23,7 @@ var insects = [
     eatsPlants: false
     }
   },
+  {
     name: 'Stag Beetle',
     img: 'stag-beetle.jpg',
     family: 'Lucanidae',
@@ -32,6 +34,7 @@ var insects = [
     eatsPlants: true
     }
   },
+  {
     name: 'Tortoise Beetle',
     img: 'tortoise-beetle.jpg',
     family: 'Cassidinae',
